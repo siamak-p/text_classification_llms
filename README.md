@@ -51,7 +51,7 @@ This project demonstrates two different approaches to classify text into emotion
 
 ### 1. Clone this repository
 
-git clonehttps://github.com/siamak-p/text_classification_llms.git
+git clone https://github.com/siamak-p/text_classification_llms.git
 cd text_classification_llms
 
 ### 2. Install requirements and run jupyter notebook
